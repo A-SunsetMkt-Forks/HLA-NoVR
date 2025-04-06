@@ -16,6 +16,17 @@ Currently not supported / in development:
 - ``GoldenEye Alyx 007 - Dam`` (part 1)
 - ``Red Dust`` (1 map)
 
+## Switch to branch mods using the launcher
+
+Set the value for "Mod branch:" to "mods".
+Press "Play" and wait for the game to update and launch.
+If you like to revert back use "main" as value.
+
+## Additional notes
+
+Please note that there are no map edits for smooth traverse for these mods because the source files are the property of awesome community creators. 
+So you may have to crouch, jump or crouch jump on some parts or even reload a save in worst case. Also there are no toner puzzles.
+
 # HLA-NoVR
 The easiest to use and most flexible NoVR mod for Half-Life: Alyx!
 
