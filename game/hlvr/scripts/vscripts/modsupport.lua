@@ -1821,7 +1821,7 @@ function ModSupport_CheckUseObjectInteraction(thisEntity)
             SendToConsole("ent_fire 49682_785_relay_button_pressed trigger")
         end
         -- Train brake
-        if name == "train_pusher_detail" or "train_pusher_brake" then
+        if name == "train_pusher_detail" or name == "train_pusher_brake" then
             SendToConsole("ent_fire_output train_pusher_brake oncompletiona_forward")
             Entities:GetLocalPlayer():Attribute_SetIntValue("locomotive_turntable", 1)
         end
